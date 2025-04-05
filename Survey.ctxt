@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Survey
+comment0.text=\r\n\ \r\n\ prompts\ the\ user\ with\ a\ survey\r\n\ \r\n
+comment1.params=
+comment1.target=Survey()
+comment2.params=urlString
+comment2.target=void\ openWebpage(java.lang.String)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ main()
+numComments=5
