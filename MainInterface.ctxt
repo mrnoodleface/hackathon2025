@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MainInterface
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ runTest()
+comment3.params=
+comment3.target=char\ acceptInput()
+comment4.params=question
+comment4.target=char\ askQuestion(java.lang.String)
+comment5.params=question
+comment5.target=char\ askQuestionOpp(java.lang.String)
+comment6.params=question
+comment6.target=void\ askFollowUp(java.lang.String)
+comment7.params=question
+comment7.target=char\ askSymptom(java.lang.String)
+numComments=8
