@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Console
+comment0.text=\r\n\ \r\n\ prompts\ the\ user\ with\ a\ survey\r\n\ \r\n
+comment1.params=
+comment1.target=Console()
+comment2.params=e
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ exit()
+comment4.params=urlString
+comment4.target=void\ openWebpage(java.lang.String)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=o
+comment6.target=void\ print(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ scanString()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
